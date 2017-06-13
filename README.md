@@ -1,9 +1,12 @@
 # Algorithm
-对算法导论中提到的算法进行java实现记录</br>
+对OJ算法，算法导论中的算法进行java实现记录</br>
 实现算法目录如下：</br>
-①insert sort</br>
-②merge sort</br>
-③binary search</br>
-④KMP</br>
-⑤数位DP：不要62
+1.insert sort</br>
+2.merge sort</br>
+3.binary search</br>
+4.KMP</br>
+5.数位DP：不要62</br>
+6.hihoCode OJ:Trie树</br>
+7.hihoCode OJ:KMP</br>
+7.hihoCode OJ:Manache</br>
 
